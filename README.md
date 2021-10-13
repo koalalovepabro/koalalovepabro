@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🐨 I'm Saetbyeol Lee.
+- 👀 I’m interested in Data Science.
+- 🌱 I’m currently learning Data Analysis, Visualization, ML, DL, AI and so on.
+- 💞️ I’m looking to collaborate on various projects related to Data Analysis.
+- 📫 Contact Me: koalalovepabro@gmail.com
+
 <!--
 **koalalovepabro/koalalovepabro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
