@@ -25,6 +25,7 @@ I ❤️ to challenge new things and I am a person who actively moves by self-mo
 [![Python](https://img.shields.io/badge/&#8203;-Python-3776ab?style=flat&logo=Python&logoColor=white)](https://docs.python.org/)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)](https://www.mysql.com/)
 [![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=PyCharm&logoColor=white)](https://www.jetbrains.com/ko-kr/pycharm/download/#section=windows)
+[![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white)](https://code.visualstudio.com/download)
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white)](https://git-scm.com/downloads)
 
 ## 🕹 Skills
